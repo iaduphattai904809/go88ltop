@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Go88 - Cổng game bài đổi thưởng uy tín đến từ Anh Quốc - go88l.top
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Go88 <https://go88l.top/>`_ - cổng game được yêu thích và chiếm lĩnh thị trường Việt Nam với nhiều sản phẩm nổi bật. Cổng game Go88 có trụ sở chính tại Philippines và hoạt động dưới giấy phép của Isle of Man Gambling Supervision Commission (IOM). Go88 đã xây dựng một cộng đồng game bài đổi thưởng trực tuyến tại Việt Nam với sự công bằng và minh bạch. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Các thống kê cho thấy Go88 được người chơi đánh giá cao, với lượng người chơi lớn và các game dễ kiếm tiền như Tài Xỉu, Bắn Cá, Lô Đề, Xóc Dĩa, Nổ Hủ, Thể Thao. Go88 cũng nổi bật với sự phổ biến ở các tỉnh thành như Bắc Ninh, Bắc Giang, Vĩnh Phúc, Nghệ An và Hà Tĩnh.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: DŨNG TRẦN/98 Bế Văn Đàn, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng
 
-Contents
---------
+Phone: 0355923834 
 
-.. toctree::
+Email: info@go88l.top. 
 
-   usage
-   api
+Website: https://go88l.top/
+
+#go88 #nhacaigo88 #trangchugo88 #dangkygo88 #linkgo88
